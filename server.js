@@ -49,7 +49,6 @@ app.get('/all', (req, res) =>{
 // POST Route
 app.post('/all', (req, res)=>{
     projectData = req.body
-    console.log(projectData)
 })
 
 
